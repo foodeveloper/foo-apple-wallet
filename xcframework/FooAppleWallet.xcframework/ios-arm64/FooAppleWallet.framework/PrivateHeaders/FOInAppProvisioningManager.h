@@ -1,6 +1,6 @@
 //
 //  FOInAppProvisioningManager.h
-//  FooApplePayDemo
+//  FooAppleWalletDemo
 //
 //  Created by FOO_ on 10/12/2020.
 //

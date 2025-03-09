@@ -1,6 +1,6 @@
 //
 //  FOInAppVerificationManager.h
-//  FooApplePayDemo
+//  FooAppleWalletDemo
 //
 //  Created by Sami Sharafeddine on 11/03/2022.
 //

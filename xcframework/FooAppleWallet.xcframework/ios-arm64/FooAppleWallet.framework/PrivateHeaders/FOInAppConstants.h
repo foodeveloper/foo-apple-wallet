@@ -1,6 +1,6 @@
 //
 //  FOInAppConstants.h
-//  FooApplePayDemo
+//  FooAppleWalletDemo
 //
 //  Created by FOO_ on 18/12/2020.
 //

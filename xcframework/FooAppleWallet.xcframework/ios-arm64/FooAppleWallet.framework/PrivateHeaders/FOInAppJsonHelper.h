@@ -1,6 +1,6 @@
 //
 //  FOInAppJsonHelper.h
-//  FooApplePayDemo
+//  FooAppleWalletDemo
 //
 //  Created by Elie El Koreh on 3/31/21.
 //

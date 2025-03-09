@@ -1,6 +1,6 @@
 //
 //  FOInAppEncryption.h
-//  FooApplePayDemo
+//  FooAppleWalletDemo
 //
 //  Created by FOO_ on 09/12/2020.
 //

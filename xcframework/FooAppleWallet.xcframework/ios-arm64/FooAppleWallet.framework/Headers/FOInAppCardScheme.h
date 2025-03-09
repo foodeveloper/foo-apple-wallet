@@ -1,6 +1,6 @@
 //
 //  FOInAppCardScheme.h
-//  FooApplePayDemo
+//  FooAppleWalletDemo
 //
 //  Created by Sami Sharafeddine on 07/02/2025.
 //

@@ -1,6 +1,6 @@
 //
 //  FOInAppProvCardType.h
-//  FooApplePayDemo
+//  FooAppleWalletDemo
 //
 //  Created by Sami Sharafeddine on 28/02/2024.
 //

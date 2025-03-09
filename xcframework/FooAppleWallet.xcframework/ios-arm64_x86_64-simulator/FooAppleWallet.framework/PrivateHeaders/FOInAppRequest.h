@@ -1,6 +1,6 @@
 //
 //  FOInAppRequest.h
-//  FooApplePayDemo
+//  FooAppleWalletDemo
 //
 //  Created by FOO_ on 17/12/2020.
 //
