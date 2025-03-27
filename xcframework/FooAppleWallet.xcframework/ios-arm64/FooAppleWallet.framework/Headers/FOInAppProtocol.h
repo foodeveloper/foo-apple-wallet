@@ -14,7 +14,8 @@ typedef enum {
     FOInAppAddCardErrorInvalidParameters,
     FOInAppAddCardErrorCantAddCard,
     FOInAppAddCardErrorAppleWalletErr,
-    FOInAppAddCardErrorInternalServerErr
+    FOInAppAddCardErrorInternalServerErr,
+    FOInAppAddCardErrorExtraTokenInvalid
 } FOInAppAddCardError;
 
 

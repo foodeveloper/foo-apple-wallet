@@ -27,6 +27,7 @@ typedef enum {
     FOInAppResponseErrorTypeMaintenanceMode = 8, // MaintenanceModeException
     FOInAppResponseErrorTypeUpdateRequired = 9, //OutdatedVersionException
     FOInAppResponseErrorTypeFailResponse = 10, //Meta Success, Response Fail
+    FOInAppResponseErrorTypeInvalidToken = 11, //Invalid Extra token
     
 } FOInAppResponseErrorType;
 
